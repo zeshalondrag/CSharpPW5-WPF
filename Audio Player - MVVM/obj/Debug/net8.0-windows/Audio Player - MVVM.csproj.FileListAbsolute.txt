@@ -1,0 +1,84 @@
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Audio Player - MVVM.exe
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Audio Player - MVVM.deps.json
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Audio Player - MVVM.runtimeconfig.json
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Audio Player - MVVM.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Audio Player - MVVM.pdb
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.csproj.AssemblyReference.cache
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM_MarkupCompile.cache
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM_MarkupCompile.lref
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\App.baml
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.g.resources
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.AssemblyInfoInputs.cache
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.AssemblyInfo.cs
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.csproj.CoreCompileInputs.cache
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Pl.4267290B.Up2Date
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\refint\Audio Player - MVVM.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.pdb
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.genruntimeconfig.cache
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\ref\Audio Player - MVVM.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\PlayerWindow.g.cs
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\SettingsWindow.g.cs
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\PlayerWindow.baml
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\SettingsWindow.baml
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\HistoryWindow.g.cs
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\HistoryWindow.baml
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Audio Player - MVVM.exe
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Audio Player - MVVM.deps.json
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Audio Player - MVVM.runtimeconfig.json
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Audio Player - MVVM.dll
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Audio Player - MVVM.pdb
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.csproj.AssemblyReference.cache
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\HistoryWindow.g.cs
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\PlayerWindow.g.cs
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\SettingsWindow.g.cs
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM_MarkupCompile.cache
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM_MarkupCompile.lref
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\App.baml
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\HistoryWindow.baml
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\PlayerWindow.baml
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Views\SettingsWindow.baml
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.g.resources
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.AssemblyInfoInputs.cache
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.AssemblyInfo.cs
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.csproj.CoreCompileInputs.cache
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Pl.4267290B.Up2Date
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.dll
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\refint\Audio Player - MVVM.dll
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.pdb
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\Audio Player - MVVM.genruntimeconfig.cache
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\obj\Debug\net8.0-windows\ref\Audio Player - MVVM.dll
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\yaney\OneDrive\Рабочий стол\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\CommonServiceLocator.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\System.Windows.Interactivity.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\yaney\source\repos\Audio Player - MVVM\Audio Player - MVVM\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll

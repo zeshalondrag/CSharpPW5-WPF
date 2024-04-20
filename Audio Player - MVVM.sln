@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audio Player - MVVM", "Audio Player - MVVM\Audio Player - MVVM.csproj", "{2B4CD273-0159-4BBC-806D-8B725AA4437D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4CD273-0159-4BBC-806D-8B725AA4437D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4CD273-0159-4BBC-806D-8B725AA4437D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4CD273-0159-4BBC-806D-8B725AA4437D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4CD273-0159-4BBC-806D-8B725AA4437D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C16028E7-B87B-4814-A968-23D8329C214B}
+	EndGlobalSection
+EndGlobal

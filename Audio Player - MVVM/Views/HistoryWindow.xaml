@@ -1,0 +1,20 @@
+﻿<Window x:Class="Audio_Player___MVVM.Views.HistoryWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Audio_Player___MVVM.Views"
+        mc:Ignorable="d"
+        Icon="Helpers/Image/icons-spotify.ico"
+        WindowStartupLocation="CenterScreen"
+        Title="Spotify" Height="450" Width="400" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox Text="История прослушивания" IsReadOnly="True" TextAlignment="Center" FontSize="20" Margin="20" FontWeight="Bold"/>
+        <ListBox x:Name="historyList" Grid.Row="1" ItemsSource="{Binding ListeningHistory}"  DisplayMemberPath="Name"/>
+    </Grid>
+</Window>
