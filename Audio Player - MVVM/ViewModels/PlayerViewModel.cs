@@ -1,4 +1,4 @@
-﻿using MaterialDesignThemes.Wpf;
+using MaterialDesignThemes.Wpf;
 using Microsoft.WindowsAPICodePack.Dialogs;
 using System;
 using System.Collections.ObjectModel;
@@ -234,13 +234,25 @@ namespace Audio_Player___MVVM.ViewModels
             {
                 ReplayButtonContent = PackIconKind.Replay;
                 ReplayButtonForeground = Brushes.Red;
+
+                _mediaElement.MediaEnded += MediaElement_MediaEnded;
             }
             else
             {
                 ReplayButtonContent = PackIconKind.Replay;
                 ReplayButtonForeground = Brushes.Teal;
-            }
 
+                _mediaElement.MediaEnded -= MediaElement_MediaEnded;
+            }
+        }
+
+        private void MediaElement_MediaEnded(object sender, RoutedEventArgs e)
+        {
+            if (_isRepeating)
+            {
+                _mediaElement.Position = TimeSpan.Zero;
+                _mediaElement.Play();
+            }
         }
 
         private void FolderMusic(object obj) // Выбор папки с музыкой
